@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Liste des Comptes</title>
+    </head>
+    <body>
+        <h1>Liste des Comptes</h1>
+        <table border="1">
+            <tr>
+                <th>Code</th><th>Solde</th><th>Date de Creation</th>
+            </tr>
+            <tr>
+                <td>7</td><td>777.7</td><td>2002-02-08</td>
+            </tr>
+            <tr>
+                <td>8</td><td>888.8</td><td>2002-02-19</td>
+            </tr>
+            <tr>
+                <td>9</td><td>32.5</td><td>1950-01-01</td>
+            </tr>
+        </table>
+        <p>Somme totale des soldes : 1699</p>
+        <h1>Liste des Comptes Cre&eacute;s apr&eacute;s l'annee 2000</h1>
+        <table border="1">
+            <tr>
+                <th>Code</th><th>Solde</th><th>Date de Creation</th>
+            </tr>
+            <tr>
+                <td>7</td><td>777.7</td><td>2002-02-08</td>
+            </tr>
+            <tr>
+                <td>8</td><td>888.8</td><td>2002-02-19</td>
+            </tr>
+        </table>
+        <p>Somme totale des soldes des comptes filtres : 1666.5</p>
+    </body>
+</html>
